@@ -1,6 +1,6 @@
-# AnyDesk Manager & Timer
+# AnyDesk Manager
 
-A lightweight, high-DPI aware Windows utility built with **CustomTkinter** and **Python** designed to manage AnyDesk remote desktop connections, bypass UAC elevation prompts using scheduled tasks, and automate connection tracking.
+A lightweight, high-DPI-aware Windows utility built with **CustomTkinter** and **Python** designed to manage AnyDesk remote desktop connections, bypass UAC elevation prompts using scheduled tasks, and automate connection tracking.
 
 ---
 
