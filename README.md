@@ -69,3 +69,7 @@ This project relies on the following Python packages and standard library module
 * **threading**: Executes asynchronous background tasks and keeps the UI responsive.
 * **json**: Manages local data persistence for saved settings and connections.
 * **winreg**: Interacts with the Windows Registry for startup configurations.
+
+## License
+
+[MIT License](LICENSE)
