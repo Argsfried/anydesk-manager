@@ -4,6 +4,8 @@ A lightweight, open-source, and independent high-DPI-aware Windows utility built
 
 <img width="742" height="792" alt="image" src="https://github.com/user-attachments/assets/e71964b4-2841-4ec2-8cee-e8d7519327c3" />
 
+**Download Link:** https://github.com/Argsfried/anydesk-manager/releases/download/on-publish/AnyDesk.Manager.exe
+
 ---
 
 ## Features
