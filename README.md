@@ -55,3 +55,17 @@ To ensure the application has proper permissions to run system commands without 
 6. To check if the auto-start is working, run this command in cmd:
     ```cmd
     schtasks /Query /TN "AnyDeskManagerApp_Autostart"
+
+## Dependencies
+
+This project relies on the following Python packages and standard library modules:
+
+### Third-Party Dependencies
+* **CustomTkinter** (`customtkinter`): Provides the modern, high-DPI aware graphical user interface components.
+* **PyInstaller** (`pyinstaller`): Used to compile and package the Python script into a standalone Windows binary (`.exe`).
+
+### Built-in Standard Libraries
+* **subprocess**: Handles execution of elevated Windows CLI commands (`net start`, `schtasks`).
+* **threading**: Executes asynchronous background tasks and keeps the UI responsive.
+* **json**: Manages local data persistence for saved settings and connections.
+* **winreg**: Interacts with the Windows Registry for startup configurations.
