@@ -1,6 +1,6 @@
 # AnyDesk Manager
 
-A lightweight, high-DPI-aware Windows utility built with **CustomTkinter** and **Python** designed to manage AnyDesk remote desktop connections, bypass UAC elevation prompts using scheduled tasks, and automate connection tracking.
+A lightweight, open-source, and independent high-DPI-aware Windows utility built with CustomTkinter and Python designed to manage AnyDesk remote desktop connections, bypass UAC elevation prompts using scheduled tasks, and automate connection tracking.
 
 <img width="742" height="792" alt="image" src="https://github.com/user-attachments/assets/e71964b4-2841-4ec2-8cee-e8d7519327c3" />
 
