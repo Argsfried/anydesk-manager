@@ -66,6 +66,12 @@ This project relies on the following Python packages and standard library module
 * **CustomTkinter** (`customtkinter`): Provides the modern, high-DPI aware graphical user interface components.
 * **PyInstaller** (`pyinstaller`): Used to compile and package the Python script into a standalone Windows binary (`.exe`).
 
+Install with:
+
+```bash
+pip install customtkinter pyinstaller
+```
+
 ### Built-in Standard Libraries
 * **subprocess**: Handles execution of elevated Windows CLI commands (`net start`, `schtasks`).
 * **threading**: Executes asynchronous background tasks and keeps the UI responsive.
